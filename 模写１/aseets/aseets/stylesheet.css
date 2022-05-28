@@ -1,0 +1,229 @@
+@charset "UTF-8";
+
+.header-contents {
+    border-top: 7px solid #4EC0F2;
+    padding: 10px 0 30px;
+    background-image:url(https://market-room.com/images/blog/illust-dayori04.gif);
+    background-position: center center;
+    background-size: cover;
+}
+
+.logo-box-contents {
+    width: 960px;
+    display: flex;
+    justify-content:space-between;
+    margin: 0 auto;
+}
+
+.background-pic {
+    position: relative;
+    height: 50vh;
+    z-index: 0;
+}
+
+.logo-box {
+    padding-top: 30px;
+}
+
+.tel-box i {
+    margin-right: 7px;
+}
+
+.tel-box p {
+    font-size: 12px;
+}
+
+.logo-box p {
+    padding: 10px 0;
+    font-size: 12px;
+}
+.main-layout-contents {
+    display: flex;
+    justify-content:space-between;
+    width: 960px;
+    margin:0 auto;
+}
+
+.main-pic {
+    width: 700px;
+    height: 424px;
+    margin: 0 auto 40px;
+}
+
+.side-many {
+    color:#3F260D;
+    letter-spacing: 0.5px;
+    border: 1px #4EC0F2 solid;
+    border-radius: 7px;
+    width: 212px;
+    height: 433px;
+    padding: 0 23px;
+    font-size: 12px;
+    margin: 0 0 10px;
+    display: block;
+}
+
+.side-many li {
+    font-size: 14px;
+    border-bottom: 1px #4EC0F2 dotted;
+    padding: 20px 0;
+    height: auto;
+}
+
+.side-many span {
+    color:rgb(255,198,17);
+}
+
+.schebule {
+    width: 212px;
+    border: 1px #4EC0F2 dotted;
+    margin-bottom: 20px;
+    border-radius: 10px
+}
+
+.schebule h2 {
+    margin: 10px auto 10px;
+    width: 164px;
+    border-bottom: 1px #4EC0F2 dotted;
+    vertical-align: middle;
+    padding-bottom: 8px;
+}
+
+.schebule-contents {
+    margin:22px;
+}
+
+.schebule span {
+    color:rgb(77,192,242);
+    font-size: 5px;
+    vertical-align: middle;
+    margin-right: 3px;
+}
+
+.schebule a {
+    color:rgb(77,192,242);
+    font-size: 12px;
+}
+
+.schebule p {
+    font-size: 12px;
+}
+
+.counter {
+    border: 1px #4EC0F2 dotted;
+    margin-bottom: 40px;
+    border-radius: 10px;
+}
+
+.counter h2 {
+    width: 164px;
+    margin: 10px auto 20px;
+    border-bottom: 1px #4EC0F2 dotted;
+    padding-bottom: 8px;
+}
+
+.counter span {
+    color: #4EC0F2;
+    font-size: 5px;
+    vertical-align: middle;
+    margin-right: 3px;
+}
+
+.counter p {
+    font-size: 12px;
+    width: 164px;
+    margin-bottom: 5px;
+}
+
+.counter-contents {
+    width: 164px;
+    margin: 20px;
+}
+
+.greet {
+    width: 700px;
+    height: auto;
+    border: 1px #4EC0F2 dotted;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+.greet h2 {
+    margin: 22px;
+    border-left: 3px solid #4EC0F2;
+    padding-left: 13px;
+    padding: auto;
+}
+
+.greet p {
+    width: 650px;
+    margin: 5px auto 15px;
+    font-size: 12px;
+    border-top: 1px rgb(77,192,242) dotted;
+    padding-top: 20px;
+}
+
+.notice {
+    width: 700px;
+    border: 1px rgb(77,192,242) dotted;
+    border-radius: 10px;
+    height: auto;
+}
+
+.notice h2 {
+    border-left: 3px rgb(77,192,242) solid;
+    width: 660px;
+    margin: 10px auto 12px;
+    padding-left: 13px;
+}
+
+.notice p {
+    font-size: 12px;
+    width: 660px;
+    margin: 20px auto;
+    border-top: 1px rgb(77,192,242) dotted;
+    padding-top: 15px;
+}
+
+.notice span {
+    color: rgb(77,192,242);
+    margin-right: 5px;
+}
+
+.footer-contents {
+    background-color: rgb(77,192,242);
+    padding: 30px;
+}
+
+.footer-logo {
+    width: 332px;
+    margin: auto;
+}
+
+.footer-many ul {
+    width: 600px;
+    margin: auto;
+    display: flex;
+    margin-top: 10px;
+}
+
+
+
+.footer-many li {
+    padding-right: 8px;
+    margin: 0 auto;
+    font-size:12px;
+}
+
+.footer-many span {
+    color: rgb(255,198,17);
+    margin-right: 5px;
+}
+
+.footer-wrapper {
+    width: 960px;
+    margin: auto;
+    text-align: center;
+    font-size: 12px;
+    padding: 10px 0;
+}
